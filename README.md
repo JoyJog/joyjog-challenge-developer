@@ -8,8 +8,11 @@ Utilize a Unity na versão **2022.3** ou superior.
 Seu objetivo é criar um jogo de plataforma 2D, para que um Game Design possa utilizar os espectros da Unity 3D e colocar todos os assets conforme no GDD.
 
 Iremos utilizar estes assets para o cenário [ASSETS](https://assetstore.unity.com/packages/2d/characters/gothicvania-town-101407)
-Personagem principal [Personagem](https://assetstore.unity.com/packages/2d/characters/warrior-free-asset-195707)
-Sonoplastia:
+
+##### Personagem principal
+- [Personagem](https://assetstore.unity.com/packages/2d/characters/warrior-free-asset-195707)
+
+##### Sonoplastia
 - [cenas](https://assetstore.unity.com/packages/audio/music/-free-music-tracks-for-games-156413)
 - [swords](https://assetstore.unity.com/packages/audio/sound-fx/weapons/swordsoundpack-177824)
 - [Magic](https://assetstore.unity.com/packages/audio/sound-fx/weapons/demo-ancient-magic-pack-free-175093)
