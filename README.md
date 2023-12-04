@@ -19,7 +19,7 @@ Iremos utilizar estes assets para o cenário [ASSETS](https://assetstore.unity.c
 
 ## Prazo
 
-Você terá um prazo de 7 dias para finalizar o teste, o prazo se inicia quando o recrutador informar este repositório ao candidato. Caso precise de mais tempo, informar ao recrutador com antecedência, que não será possível concluir o teste e informar o novo prazo para entrega.
+Você terá um prazo de 7 dias para finalizar o teste, o prazo se inicia quando o recrutador informar este repositório ao candidato. Caso precise de mais tempo, informar ao recrutador com antecedência e informar o novo prazo para entrega.
 
 ## GDD - Game Design Document
 
@@ -29,7 +29,7 @@ Você terá um prazo de 7 dias para finalizar o teste, o prazo se inicia quando 
 
 O jogador precisa movimentar o personagem usando as teclas W, A, S, D.
 O personagem precisa ter a capacidade de saltar com a barra de espaço.
-O ataque do personagem deverá ficar no mouse, apertando o botão esquerdo.
+O ataque do personagem deverá ser no mouse, apertando o botão esquerdo.
 O dasn deverá ficar no mouse, apertando o botão direito.
 
 
